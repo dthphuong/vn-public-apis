@@ -1,0 +1,44 @@
+{
+    "name": "vn-public-apis",
+    "version": "1.0.0",
+    "description": "All-In-One API that you need",
+    "main": "server.js",
+    "config": {
+        "unsafe-perm": true
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "public",
+        "api",
+        "vietnam"
+    ],
+    "author": "Phuong Duong",
+    "license": "ISC",
+    "dependencies": {
+        "@mongoosejs/double": "^0.2.0",
+        "async": "^3.2.0",
+        "bcrypt": "^5.0.0",
+        "cors": "^2.8.5",
+        "crypto-js": "^4.0.0",
+        "express": "^4.17.1",
+        "express-rate-limit": "^5.1.3",
+        "formidable": "^1.2.2",
+        "html5-to-pdf": "^4.0.1",
+        "marked": "^2.1.3",
+        "moment": "^2.29.1",
+        "mongoose": "^5.13.1",
+        "morgan": "^1.10.0",
+        "randomstring": "^1.1.5",
+        "underscore": "^1.10.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dthphuong/vn-public-apis.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dthphuong/vn-public-apis.git/issues"
+    },
+    "hompage": "https://github.com/dthphuong/vn-public-apis.git#readme"
+}
