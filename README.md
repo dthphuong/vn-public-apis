@@ -2,9 +2,6 @@
 
 VN Public APIs là tập hợp các API miễn phí giúp bạn có thể lấy được các thông tin công khai một cách dễ dàng.
 
-[![pipeline status](https://gitlab.com/vn-public-project/vn-public-apis/badges/main/pipeline.svg)](https://gitlab.com/vn-public-project/vn-public-apis/-/commits/main)
-
-
 
 ## API Reference
 
